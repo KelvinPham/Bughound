@@ -1,0 +1,53 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #fff7d9;
+}
+
+h1 {
+    font-size: 48pt;
+}
+
+table {
+    border-spacing: 10px;
+}
+
+.display, .display th,.display td {
+    border: 1px solid black;
+    border-spacing: 0px;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    border-radius: 4px;
+    font-size: 24pt;
+    text-align: center;
+}
+
+input[type=submit] {
+    margin-right: 0px;
+}
+
+#welcome_hound {
+    float:right;
+}
+
+.large_text {
+    font-size: 24pt;
+}
+
+.medium_text {
+    font-size: 18pt;
+}
+
+.small_text {
+    font-size: 12pt;
+}
+
+.green_me {
+    color: seagreen;
+}

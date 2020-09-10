@@ -1,0 +1,272 @@
+Bug Reports
+-----------------------------------------------------------------
+[Bug ID] :1009
+[Program ID] : 1000
+[Bug Type] : Coding Error
+[Severity] : Minor
+[Summary] : The last two lines of output are concatenated on a single line
+[Reproducible] : 1
+[Problem] : Lines 32 and 33 in the output report
+are not on separate lines
+[Suggested Fix] : 
+[Reported By Employee ID] : 1004
+[Discovered Date] : 2020-04-30
+[Bug Optional ID] : 1001
+[Functional Area ID] : 
+[Assigned To Employee ID] : 
+[Comments] : 
+[Status] : Open
+[Priority] : 0
+[Resolution] : 
+[Resolution Version] : 0
+[Resolved By Employee ID] : 
+[Resolved Date] : 0000-00-00
+[Tested By Employee ID] : 
+[Tested Date] : 0000-00-00
+[Deferred] : 0
+-----------------------------------------------------------------
+[Bug ID] :1010
+[Program ID] : 1000
+[Bug Type] : Design Issue
+[Severity] : Minor
+[Summary] : Sue says IDE File->Print defaults to PDF – should be blank ini
+[Reproducible] : 1
+[Problem] : Sue says IDE File->Print defaults to PDF – should be
+blank initially.
+[Suggested Fix] : 
+[Reported By Employee ID] : 1003
+[Discovered Date] : 2020-04-30
+[Bug Optional ID] : 1002
+[Functional Area ID] : 
+[Assigned To Employee ID] : 
+[Comments] : 
+[Status] : Open
+[Priority] : 0
+[Resolution] : 
+[Resolution Version] : 0
+[Resolved By Employee ID] : 
+[Resolved Date] : 0000-00-00
+[Tested By Employee ID] : 
+[Tested Date] : 0000-00-00
+[Deferred] : 0
+-----------------------------------------------------------------
+[Bug ID] :1011
+[Program ID] : 1006
+[Bug Type] : Design Issue
+[Severity] : Serious
+[Summary] : Felix says Formulator missing capital Greek Sigma
+[Reproducible] : 1
+[Problem] : Felix says Formulator missing capital Greek Sigma
+[Suggested Fix] : 
+[Reported By Employee ID] : 1008
+[Discovered Date] : 2020-04-30
+[Bug Optional ID] : 1003
+[Functional Area ID] : 
+[Assigned To Employee ID] : 
+[Comments] : 
+[Status] : Open
+[Priority] : 0
+[Resolution] : 
+[Resolution Version] : 0
+[Resolved By Employee ID] : 
+[Resolved Date] : 0000-00-00
+[Tested By Employee ID] : 
+[Tested Date] : 0000-00-00
+[Deferred] : 0
+-----------------------------------------------------------------
+[Bug ID] :1012
+[Program ID] : 1005
+[Bug Type] : Suggestion
+[Severity] : Minor
+[Summary] : Becky says IDE should have a toolbar for compiling, linking, run
+[Reproducible] : 1
+[Problem] : Becky says IDE should have a toolbar for compiling,
+linking, running.
+[Suggested Fix] : 
+[Reported By Employee ID] : 1007
+[Discovered Date] : 2020-04-30
+[Bug Optional ID] : 1004
+[Functional Area ID] : 
+[Assigned To Employee ID] : 
+[Comments] : 
+[Status] : Open
+[Priority] : 0
+[Resolution] : 
+[Resolution Version] : 0
+[Resolved By Employee ID] : 
+[Resolved Date] : 0000-00-00
+[Tested By Employee ID] : 
+[Tested Date] : 0000-00-00
+[Deferred] : 0
+-----------------------------------------------------------------
+[Bug ID] :1013
+[Program ID] : 1002
+[Bug Type] : Design Issue
+[Severity] : Serious
+[Summary] : Francois says 
+[Reproducible] : 1
+[Problem] : Francois says "La distance n'est pas en kilomètres!"
+Design issue.
+[Suggested Fix] : 
+[Reported By Employee ID] : 1006
+[Discovered Date] : 2020-04-30
+[Bug Optional ID] : 1005
+[Functional Area ID] : 
+[Assigned To Employee ID] : 
+[Comments] : 
+[Status] : Open
+[Priority] : 0
+[Resolution] : 
+[Resolution Version] : 0
+[Resolved By Employee ID] : 
+[Resolved Date] : 0000-00-00
+[Tested By Employee ID] : 
+[Tested Date] : 0000-00-00
+[Deferred] : 0
+-----------------------------------------------------------------
+[Bug ID] :1014
+[Program ID] : 1001
+[Bug Type] : Coding Error
+[Severity] : Serious
+[Summary] : Sue says “add areas page” has no means to Cancel or quit aft
+[Reproducible] : 1
+[Problem] : Sue says “add areas page” has no means to Cancel
+or quit after adding.
+[Suggested Fix] : "Add Cancel button to page."
+[Reported By Employee ID] : 1003
+[Discovered Date] : 2020-04-30
+[Bug Optional ID] : 1006
+[Functional Area ID] : 1009
+[Assigned To Employee ID] : 1008
+[Comments] : 
+[Status] : Closed
+[Priority] : 1
+[Resolution] : 
+[Resolution Version] : 0
+[Resolved By Employee ID] : 
+[Resolved Date] : 0000-00-00
+[Tested By Employee ID] : 
+[Tested Date] : 0000-00-00
+[Deferred] : 0
+-----------------------------------------------------------------
+[Bug ID] :1015
+[Program ID] : 1000
+[Bug Type] : Coding Error
+[Severity] : Fatal
+[Summary] : Habib reports that the math.p library is not found by the linker
+[Reproducible] : 1
+[Problem] : Habib reports that the math.p library is not found by
+the linker
+[Suggested Fix] : 
+[Reported By Employee ID] : 1004
+[Discovered Date] : 2020-04-30
+[Bug Optional ID] : 1007
+[Functional Area ID] : 
+[Assigned To Employee ID] : 
+[Comments] : 
+[Status] : Open
+[Priority] : 0
+[Resolution] : 
+[Resolution Version] : 0
+[Resolved By Employee ID] : 
+[Resolved Date] : 0000-00-00
+[Tested By Employee ID] : 
+[Tested Date] : 0000-00-00
+[Deferred] : 0
+-----------------------------------------------------------------
+[Bug ID] :1016
+[Program ID] : 1006
+[Bug Type] : Suggestion
+[Severity] : Serious
+[Summary] : test
+[Reproducible] : 1
+[Problem] : test
+[Suggested Fix] : 
+[Reported By Employee ID] : 1002
+[Discovered Date] : 2020-05-20
+[Bug Optional ID] : 1008
+[Functional Area ID] : 
+[Assigned To Employee ID] : 
+[Comments] : 
+[Status] : Open
+[Priority] : 0
+[Resolution] : 
+[Resolution Version] : 0
+[Resolved By Employee ID] : 
+[Resolved Date] : 0000-00-00
+[Tested By Employee ID] : 
+[Tested Date] : 0000-00-00
+[Deferred] : 0
+-----------------------------------------------------------------
+[Bug ID] :1017
+[Program ID] : 1000
+[Bug Type] : Design Issue
+[Severity] : Serious
+[Summary] : attachTest
+[Reproducible] : 1
+[Problem] : test
+[Suggested Fix] : 
+[Reported By Employee ID] : 1004
+[Discovered Date] : 2020-05-13
+[Bug Optional ID] : 1009
+[Functional Area ID] : 
+[Assigned To Employee ID] : 
+[Comments] : 
+[Status] : Open
+[Priority] : 0
+[Resolution] : 
+[Resolution Version] : 0
+[Resolved By Employee ID] : 
+[Resolved Date] : 0000-00-00
+[Tested By Employee ID] : 
+[Tested Date] : 0000-00-00
+[Deferred] : 0
+-----------------------------------------------------------------
+[Bug ID] :1018
+[Program ID] : 1001
+[Bug Type] : Suggestion
+[Severity] : Minor
+[Summary] : attachTest2
+[Reproducible] : 1
+[Problem] : test
+[Suggested Fix] : 
+[Reported By Employee ID] : 1004
+[Discovered Date] : 2020-05-13
+[Bug Optional ID] : 1010
+[Functional Area ID] : 
+[Assigned To Employee ID] : 
+[Comments] : 
+[Status] : Open
+[Priority] : 0
+[Resolution] : 
+[Resolution Version] : 0
+[Resolved By Employee ID] : 
+[Resolved Date] : 0000-00-00
+[Tested By Employee ID] : 
+[Tested Date] : 0000-00-00
+[Deferred] : 0
+-----------------------------------------------------------------
+[Bug ID] :1019
+[Program ID] : 1002
+[Bug Type] : Suggestion
+[Severity] : Minor
+[Summary] : picTest
+[Reproducible] : 1
+[Problem] : test
+[Suggested Fix] : 
+[Reported By Employee ID] : 1003
+[Discovered Date] : 2020-05-19
+[Bug Optional ID] : 1013
+[Functional Area ID] : 1003
+[Assigned To Employee ID] : 1002
+[Comments] : 
+[Status] : Open
+[Priority] : 2
+[Resolution] : Need more information
+[Resolution Version] : 1
+[Resolved By Employee ID] : 
+[Resolved Date] : 0000-00-00
+[Tested By Employee ID] : 
+[Tested Date] : 0000-00-00
+[Deferred] : 0
+-----------------------------------------------------------------
