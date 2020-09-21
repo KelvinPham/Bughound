@@ -25,9 +25,6 @@
     - Export
     - Attachments (Multiple Upload)
 
-## Incomplete
-- Areas
-    - Edit/Update Areas Validation
 
 ### Folder Structure
     .
